@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="max_count">Max Test Count:</string>
+    <string name="current_count">Current Count:</string>
+    <string name="pass_count">Pass Count:</string>
+</resources>
